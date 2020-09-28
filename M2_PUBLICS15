@@ -1,0 +1,1174 @@
+gg.alert ("━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n❏ M2 ❏\n➠  sᴄʀɪᴘᴛ ʙʏ・ʟᴇᴛ ᴍᴇ sʟᴇᴇᴘ\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+
+function M2HOME()
+WPN1 = gg.multiChoice({
+    " 🛡 sʜɪᴇʟᴅ 🛡️ ",
+    " ♻️ sᴀғᴇ ♻️ ",
+    " 🌠【ᴡᴀʟʟʜᴀᴄᴋ】🌠",
+    " ⚠️ ʙʀᴜᴛᴀʟɪᴛʏ ⚠️ ",
+    "✧═════• ᴇxɪᴛ •═════✧"
+  }, nil, (os.date("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n❏ M2 ❏\n➠  sᴄʀɪᴘᴛ ʙʏ・ʟᴇᴛ ᴍᴇ sʟᴇᴇᴘ\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n%A, %d %B %Y %H:%M%p")))
+  if WPN1 == nil then
+  else
+    if WPN1[1] == true then M2SQUAD() end
+    if WPN1[2] == true then M2SAFE() end
+    if WPN1[3] == true then M2WALLHACK() end
+    if WPN1[4] == true then M2BRT() end
+    if WPN1[5] == true then M2CLOSE() end
+  end
+  PUBGMH = -1
+end
+
+function M2BRT()
+  M2BRT1 = gg.multiChoice({
+    "📂 ᴀɴᴛᴇɴᴀ",
+    "📂 sᴋʏ",
+    "📂 ᴡɪᴅᴇ ᴠɪᴇᴡ",
+    "📂 ᴀɪᴍʙᴏᴛ",
+    "📂 ʜᴇᴀᴅsʜᴏᴛ",
+    "❏  ʀᴇᴄᴏɪʟ",    
+    "❏  ᴍᴀɢɪᴄ ʙᴜʟʟᴇᴛ",    
+    "❏  ɢʀᴀss ʀᴇᴍᴏᴠᴇ ᴇxᴛʀᴇᴍᴇ",
+    "❏  ᴡᴀʟʟsʜᴏᴏᴛ",
+    "❏  ᴡᴀʟʟᴛʜʀᴏᴜɢʜ",
+    "❏  ᴄᴀʀ sᴘᴇᴇᴅ ᴅᴀᴄɪᴀ",
+    "❏  ᴄᴀʀ sᴘᴇᴇᴅ ᴜᴀs",
+    "❏  ᴍɪᴄʀᴏ sᴘᴇᴇᴅ",
+    "🔙ʙᴀᴄᴋ"
+  }, nil, (os.date("┏⎚  ⛛ M2 ⛛   ᴇʀᴀɴɢᴇʟ 2.0\n┣⎚  sᴄʀɪᴘᴛ ʙʏ・ʟᴇᴛ ᴍᴇ sʟᴇᴇᴘ \n┗⎚  ᴛᴏᴅᴀʏ ᴅᴀᴛᴇ: %Y/%m/%d  ᴛɪᴍᴇ: %H:%M:%S\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n          ⚠️ ᴛʜɪs ғᴇᴀᴛᴜʀᴇ ᴏɴʟʏ ғᴏʀ ғᴜɴ ᴍᴀᴄᴛʜ ⚠️\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━")))
+     if M2BRT1 == nil then
+  else
+    if M2BRT1[1] == true then ANT() end
+    if M2BRT1[2] == true then SKYS() end
+    if M2BRT1[3] == true then VIEWS() end
+    if M2BRT1[4] == true then AIMS() end
+    if M2BRT1[5] == true then HSM() end
+    if M2BRT1[6] == true then LESS() end
+    if M2BRT1[7] == true then BRT15() end
+    if M2BRT1[8] == true then BRT16() end
+    if M2BRT1[9] == true then BRT17() end
+    if M2BRT1[10] == true then BRT18() end
+    if M2BRT1[11] == true then BRT19() end
+    if M2BRT1[12] == true then BRT20() end
+    if M2BRT1[13] == true then BRT21() end
+    if M2BRT1[14] == true then M2HOME() end
+  end
+  PUBGMH = -1
+end
+
+function SKYS()
+    SKY1 = gg.multiChoice({
+    "❏  sᴋʏ",
+    "❏  sᴋʏ ʙʟᴀᴄᴋ",
+    "❏  sᴋʏ ᴀᴜʀᴏʀᴀ",
+    "❏  sᴋʏ ʀᴇᴅ",
+    "🔙ʙᴀᴄᴋ"
+  }, nil, (os.date("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n❏ M2 ❏\n➠  sᴄʀɪᴘᴛ ʙʏ・ʟᴇᴛ ᴍᴇ sʟᴇᴇᴘ\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n%A, %d %B %Y %H:%M%p")))
+  if SKY1 == nil then
+  else
+    if SKY1[1] == true then SK21() end
+    if SKY1[2] == true then SK22() end
+    if SKY1[3] == true then SK23() end
+    if SKY1[4] == true then SK24() end
+    if SKY1[5] == true then M2HOME() end
+  end
+  PUBGMH = -1
+end
+
+function ANT()
+  ANTN = gg.multiChoice({
+    "❏ ᴘʟᴀʏᴇʀ",
+    "❏ ɴᴇᴡ ᴘʀᴏ",
+    "❏ ɢʜɪʟɪᴇ sᴜɪᴛ [ɢᴀᴍᴇ]",
+    "❏ ᴀᴍᴍᴏ 5.56ᴍᴍ",
+    "❏ ʙᴏx",
+    "❏ ғᴏʀ ᴠᴍᴏs",
+    "❏ ғʟᴀʀᴇ ɢᴜɴ",
+    "❏ ɪᴛᴇᴍs ʟᴠ 3",
+    "❏ ᴍ416/sᴄᴀʟ-ʟ",
+    "❏ sᴄᴏᴘᴇ 6x/8x",
+    "❏ sᴛᴀɴᴅ",
+    "↩️ʙᴀᴄᴋ"
+  }, nil, (os.date("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n❏ M2 ❏\n➠  sᴄʀɪᴘᴛ ʙʏ・ʟᴇᴛ ᴍᴇ sʟᴇᴇᴘ\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n%A, %d %B %Y %H:%M%p")))
+  if ANTN == nil then
+  else
+    if ANTN[1] == true then ANTN1() end
+    if ANTN[2] == true then ANTN2() end
+    if ANTN[3] == true then ANTN3() end
+    if ANTN[4] == true then ANTN4() end
+    if ANTN[5] == true then ANTN5() end
+    if ANTN[6] == true then ANTN6() end
+    if ANTN[7] == true then ANTN7() end
+    if ANTN[8] == true then ANTN8() end
+    if ANTN[9] == true then ANTN9() end
+    if ANTN[10] == true then ANTN10() end
+    if ANTN[11] == true then ANTN11() end
+    if ANTN[12] == true then M2HOME() end
+  end
+  PUBGMH = -1
+end
+
+function VIEWS()
+  WIDEVIEW1 = gg.multiChoice({
+    "❏ ᴡɪᴅᴇ ᴠɪᴇᴡ 30%",
+    "❏ ᴡɪᴅᴇ ᴠɪᴇᴡ 60%",
+    "❏ ᴡɪᴅᴇ ᴠɪᴇᴡ 90%",
+    "↩️ʙᴀᴄᴋ"
+  }, nil, (os.date("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n❏ M2 ❏\n➠  sᴄʀɪᴘᴛ ʙʏ・ʟᴇᴛ ᴍᴇ sʟᴇᴇᴘ\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n%A, %d %B %Y %H:%M%p")))
+  if WIDEVIEW1 == nil then
+  else
+    if WIDEVIEW1[1] == true then cww1() end
+    if WIDEVIEW1[2] == true then cww2() end
+    if WIDEVIEW1[3] == true then cww3() end
+    if WIDEVIEW1[4] == true then M2HOME() end
+  end
+  PUBGMH = -1
+end
+
+function HSM()
+  HSMS = gg.multiChoice({
+    "❏  ʜᴇᴀᴅsʜᴏᴛ ᴍᴀx",
+    "❏  ʜᴇᴀᴅsʜᴏᴛ sɴɪᴘᴇʀ",
+    "❏  ᴅɪsᴀʙʟᴇ ʜᴇᴀᴅsʜᴏᴛ",    
+    "❏  sᴏғᴛ ʜᴇᴀᴅsʜᴏᴛ",    
+    "↩️ʙᴀᴄᴋ"
+  }, nil, (os.date("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n❏ M2 ❏\n➠  sᴄʀɪᴘᴛ ʙʏ・ʟᴇᴛ ᴍᴇ sʟᴇᴇᴘ\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n%A, %d %B %Y %H:%M%p")))
+  if HSMS == nil then
+  else
+    if HSMS[1] == true then HSMS1() end
+    if HSMS[2] == true then HSMS2() end
+    if HSMS[3] == true then HSMS3() end
+    if HSMS[4] == true then HSMS4() end
+    if HSMS[5] == true then M2HOME() end
+  end
+  PUBGMH = -1
+end
+
+function AIMS()
+  AIMB = gg.multiChoice({
+    "❏  ᴜʟᴛʀᴀ ᴀɪᴍʙᴏᴛ",
+    "❏  sᴏғᴛ ᴀɪᴍʙᴏᴛ",
+    "❏  sᴄᴏᴘᴇ ᴀɪᴍʙᴏᴛ",
+    "↩️ʙᴀᴄᴋ"
+  }, nil, (os.date("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n❏ M2 ❏\n➠  sᴄʀɪᴘᴛ ʙʏ・ʟᴇᴛ ᴍᴇ sʟᴇᴇᴘ\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n%A, %d %B %Y %H:%M%p")))
+  if AIMB == nil then
+  else
+    if AIMB[1] == true then AIMB1() end
+    if AIMB[2] == true then AIMB2() end
+    if AIMB[3] == true then AIMB3() end
+    if AIMB[4] == true then M2HOME() end
+  end
+  PUBGMH = -1
+end
+function M2SAFE()
+  gg.setVisible(false)
+  gg.clearResults()
+  gg.setRanges(32)
+  gg.searchNumber("1,868,784,978;1,850,305,641;28,518;13,212::13", 4, false, 536870912, 0, -1)
+  gg.searchNumber("1,850,305,641", 4, false, 536870912, 0, -1)
+  gg.getResults(20)
+  gg.editAll("0", 4)
+  gg.toast("❏ M2 ❏")
+  gg.clearResults()
+  gg.setRanges(32)
+  gg.searchNumber("1;0;0;1,028,443,341;1,090,519,040;1,036,831,949;1,057,803,469;1,092,091,904;1,097,859,072::33", 4, false, 536870912, 0, -1)
+  gg.searchNumber("1", 4, false, 536870912, 0, -1)
+  gg.getResults(50)
+  gg.editAll("0", 4)
+  gg.toast("√ M2 ʟᴇss ʀᴇᴄᴏɪʟ ᴀᴄᴛɪᴠᴀᴛᴇᴅ √")
+  gg.clearResults()
+  gg.setRanges(gg.REGION_ANONYMOUS)
+  gg.searchNumber("9.201618;30.5;25", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("25;30.5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(10)
+  gg.editAll("150", gg.TYPE_FLOAT)
+  gg.clearResults()
+  os.remove("/storage/emulated/0/.backups")
+  os.remove("/storage/emulated/0/tencent")
+  os.remove("/storage/emulated/0/MidasOversea")
+  os.remove("/storage/emulated/0/QTAudioEngine")
+  os.remove("/storage/emulated/0/cache")
+  gg.toast("ʜᴇᴀᴅsʜᴏᴛ ᴀᴄᴛɪᴠᴀᴛᴇᴅ")
+  gg.setVisible(false)
+  gg.toast("▓▒▒▒▒▒▒▒▒▒")
+  gg.sleep(100)
+  gg.toast("▓▓▒▒▒▒▒▒▒▒")
+  gg.sleep(100)
+  gg.toast("▓▓▓▒▒▒▒▒▒▒")
+  gg.sleep(100)
+  gg.toast("▓▓▓▓▒▒▒▒▒▒")
+  gg.sleep(100)
+  gg.toast("▓▓▓▓▓▒▒▒▒▒")
+  gg.sleep(100)
+  gg.toast("▓▓▓▓▓▓▒▒▒▒")
+  gg.sleep(100)
+  gg.toast("▓▓▓▓▓▓▓▒▒▒")
+  gg.sleep(100)
+  gg.toast("▓▓▓▓▓▓▓▓▒▒")
+  gg.sleep(100)
+  gg.toast("▓▓▓▓▓▓▓▓▓▒")
+  gg.sleep(100)
+  gg.toast("▓▓▓▓▓▓▓▓▓▓")
+  gg.sleep(400)
+  gg.toast("ᴍᴀɢɪᴄʙᴜʟʟᴇᴛ ᴀᴄᴛɪᴠᴀᴛᴇᴅ")
+  gg.sleep(500)
+  gg.toast("ᴅᴀᴍᴀɢᴇ++ ᴀᴄᴛɪᴠᴀᴛᴇᴅ")
+  gg.sleep(900)
+  gg.toast("ʟᴏᴀᴅɪɴɢ..")
+  os.remove("src/main/java/com/google/errorprone/annotations")
+  os.remove("src/main/java/com/google/errorprone/annotations")
+  os.remove("src/main/java/com/google/errorprone/annotations/concurrent")
+  os.remove("third_party.java_src.error_prone.project.annotations.Google_internal")
+  os.remove("/storage/emulated/0/.backups")
+  os.remove("/storage/emulated/0/tencent")
+  os.remove("/storage/emulated/0/MidasOversea")
+  os.remove("/storage/emulated/0/QTAudioEngine")
+  os.remove("/storage/emulated/0/cache")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/cache")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/cache/*")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/tbslog")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/ca-bundle.pem")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/cacheFile.txt")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/login-identifier.txt")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/vmpcloudconfig.json")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_temp")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_temp/*")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_res.eifs")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/afd")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs/*")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/UpdateInfo")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/RoleInfo")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/PufferTmpDir")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/apollo_reslist.flist")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/filelist.json")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/PufferFileList.json")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/GameErrorNoRecords")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/StatEventReportedFlag")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/SaveGames/loginInfoFile.json")                             
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Intermediate/SaveGames/JKGuestRegisterCnt.json")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/cache")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/cache/*")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/tbslog")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/ca-bundle.pem")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/cacheFile.txt")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/login-identifier.txt")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/vmpcloudconfig.json")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_temp")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_temp/*")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_res.eifs")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/afd")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs/*")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/UpdateInfo")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/RoleInfo")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/PufferTmpDir")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/apollo_reslist.flist")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/filelist.json")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/PufferFileList.json")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/GameErrorNoRecords")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/StatEventReportedFlag")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/SaveGames/loginInfoFile.json")                             
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Intermediate/SaveGames/JKGuestRegisterCnt.json")
+  gg.toast("▓▒▒▒▒▒▒▒▒▒")
+  gg.sleep(100)
+  gg.toast("▓▓▒▒▒▒▒▒▒▒")
+  gg.sleep(100)
+  gg.toast("▓▓▓▒▒▒▒▒▒▒")
+  gg.sleep(100)
+  gg.toast("▓▓▓▓▒▒▒▒▒▒")
+  gg.sleep(100)
+  gg.toast("▓▓▓▓▓▒▒▒▒▒")
+  gg.sleep(100)
+  gg.toast("▓▓▓▓▓▓▒▒▒▒")
+  gg.sleep(100)
+  gg.toast("▓▓▓▓▓▓▓▒▒▒")
+  gg.sleep(100)
+  gg.toast("▓▓▓▓▓▓▓▓▒▒")
+  gg.sleep(100)
+  gg.toast("▓▓▓▓▓▓▓▓▓▒")
+  gg.sleep(100)
+  gg.toast("▓▓▓▓▓▓▓▓▓▓")
+  gg.sleep(500)
+  gg.toast("❏ M2 ❏")
+  gg.sleep(500)
+  gg.clearResults()
+  gg.toast("️️❅️ ᴄʟᴇᴀʀ ʟᴏɢ ️️❅️")
+  gg.sleep(500)
+  gg.alert ("━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n         ❏ 🛡 sᴀғᴇ ғᴇᴀᴛᴜʀᴇ ᴀᴄᴛɪᴠᴀᴛᴇᴅ 🛡 ❏\n\n ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀᴅɪᴜɴ ᴍɪᴅɴɪɢʜᴛ ɪɴғɪɴɪᴛʏ sǫᴜᴀᴅ\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+end
+
+function LESS()
+  gg.setVisible(false)
+  gg.clearResults()
+  gg.setRanges(32)
+  gg.searchNumber("1,868,784,978;1,850,305,641;28,518;13,212::13", 4, false, 536870912, 0, -1)
+  gg.searchNumber("1,850,305,641", 4, false, 536870912, 0, -1)
+  gg.getResults(20)
+  gg.editAll("0", 4)
+  gg.toast("❏ M2 ❏")
+  gg.clearResults()
+  gg.setRanges(32)
+  gg.searchNumber("1;0;0;1,028,443,341;1,090,519,040;1,036,831,949;1,057,803,469;1,092,091,904;1,097,859,072::33", 4, false, 536870912, 0, -1)
+  gg.searchNumber("1", 4, false, 536870912, 0, -1)
+  gg.getResults(50)
+  gg.editAll("0", 4)
+  gg.toast("√ M2 ʟᴇss ʀᴇᴄᴏɪʟ ᴀᴄᴛɪᴠᴀᴛᴇᴅ √")
+  gg.setVisible(true)
+end
+
+
+function LESSHS()
+gg.alert ("━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n      ⚠️    ᴍᴀɪɴᴛᴇɴᴀɴᴄᴇ    ⚠️\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+  gg.setVisible(true)
+end
+
+function TOAST()
+  gg.setVisible(false)
+  gg.toast("▓▒▒▒▒▒▒▒▒▒")
+  gg.sleep(100)
+  gg.toast("▓▓▒▒▒▒▒▒▒▒")
+  gg.sleep(100)
+  gg.toast("▓▓▓▒▒▒▒▒▒▒")
+  gg.sleep(100)
+  gg.toast("▓▓▓▓▒▒▒▒▒▒")
+  gg.sleep(100)
+  gg.toast("▓▓▓▓▓▒▒▒▒▒")
+  gg.sleep(100)
+  gg.toast("▓▓▓▓▓▓▒▒▒▒")
+  gg.sleep(100)
+  gg.toast("▓▓▓▓▓▓▓▒▒▒")
+  gg.sleep(100)
+  gg.toast("▓▓▓▓▓▓▓▓▒▒")
+  gg.sleep(100)
+  gg.toast("▓▓▓▓▓▓▓▓▓▒")
+  gg.sleep(100)
+  gg.toast("▓▓▓▓▓▓▓▓▓▓")
+  gg.toast("ʜᴇᴀᴅsʜᴏᴛ ᴀᴄᴛɪᴠᴀᴛᴇᴅ")
+  gg.sleep(400)
+  gg.toast("ᴍᴀɢɪᴄʙᴜʟʟᴇᴛ ᴀᴄᴛɪᴠᴀᴛᴇᴅ")
+  gg.sleep(500)
+  gg.toast("ᴅᴀᴍᴀɢᴇ++ ᴀᴄᴛɪᴠᴀᴛᴇᴅ")
+  gg.setVisible(true)
+end
+
+function M2CLEAR()
+  gg.setVisible(false)
+  gg.toast("ʟᴏᴀᴅɪɴɢ..")
+  os.remove("src/main/java/com/google/errorprone/annotations")
+  os.remove("src/main/java/com/google/errorprone/annotations")
+  os.remove("src/main/java/com/google/errorprone/annotations/concurrent")
+  os.remove("third_party.java_src.error_prone.project.annotations.Google_internal")
+  os.remove("/storage/emulated/0/.backups")
+  os.remove("/storage/emulated/0/tencent")
+  os.remove("/storage/emulated/0/MidasOversea")
+  os.remove("/storage/emulated/0/QTAudioEngine")
+  os.remove("/storage/emulated/0/cache")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/cache")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/cache/*")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/tbslog")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/ca-bundle.pem")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/cacheFile.txt")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/login-identifier.txt")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/vmpcloudconfig.json")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_temp")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_temp/*")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_res.eifs")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/afd")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs/*")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/UpdateInfo")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/RoleInfo")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/PufferTmpDir")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/apollo_reslist.flist")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/filelist.json")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/PufferFileList.json")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/GameErrorNoRecords")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/StatEventReportedFlag")
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/SaveGames/loginInfoFile.json")                             
+  os.remove("/storage/emulated/0/Android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Intermediate/SaveGames/JKGuestRegisterCnt.json")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/cache")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/cache/*")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/tbslog")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/ca-bundle.pem")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/cacheFile.txt")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/login-identifier.txt")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/vmpcloudconfig.json")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_temp")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_temp/*")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/puffer_res.eifs")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/afd")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Logs/*")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/UpdateInfo")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/RoleInfo")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Pandora")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/PufferTmpDir")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/apollo_reslist.flist")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/filelist.json")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/Paks/PufferFileList.json")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/GameErrorNoRecords")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/StatEventReportedFlag")
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Saved/SaveGames/loginInfoFile.json")                             
+  os.remove("/storage/emulated/0/Android/data/com.pubg.krmobile/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/Intermediate/SaveGames/JKGuestRegisterCnt.json")
+  gg.toast("▓▒▒▒▒▒▒▒▒▒")
+  gg.sleep(100)
+  gg.toast("▓▓▒▒▒▒▒▒▒▒")
+  gg.sleep(100)
+  gg.toast("▓▓▓▒▒▒▒▒▒▒")
+  gg.sleep(100)
+  gg.toast("▓▓▓▓▒▒▒▒▒▒")
+  gg.sleep(100)
+  gg.toast("▓▓▓▓▓▒▒▒▒▒")
+  gg.sleep(100)
+  gg.toast("▓▓▓▓▓▓▒▒▒▒")
+  gg.sleep(100)
+  gg.toast("▓▓▓▓▓▓▓▒▒▒")
+  gg.sleep(100)
+  gg.toast("▓▓▓▓▓▓▓▓▒▒")
+  gg.sleep(100)
+  gg.toast("▓▓▓▓▓▓▓▓▓▒")
+  gg.sleep(100)
+  gg.toast("▓▓▓▓▓▓▓▓▓▓")
+  gg.sleep(500)
+  gg.toast("❏ M2 ❏")
+  gg.clearResults()
+  gg.toast("️️❅️ ᴄʟᴇᴀʀ ʟᴏɢ ️️❅️")
+  gg.setVisible(true)
+end
+
+function CL41()
+  gg.setVisible(false)
+  gg.clearResults()
+  gg.setRanges(131072)
+  gg.searchNumber('95D;2;9.2194229e-41::100', 16, false, 536870912, 0, -1)
+  gg.refineNumber('2', 16, false, 536870912, 0, -1)
+  gg.getResults(999)
+  gg.editAll('120', 16)
+  gg.clearResults()
+  gg.searchNumber('2;-1;0;1;-127;0.24022650719;0.69314718246;0.00999999978::30', 16, false, 536870912, 0, -1)
+  gg.refineNumber('2', 16, false, 536870912, 0, -1)
+  gg.getResults(999)
+  gg.editAll('120', 16)
+  gg.clearResults()
+  gg.toast('☬ ᴡᴀʟʟʜᴀᴄᴋ 712-845 ☬')
+  gg.clearResults()
+  gg.setRanges(131072)
+  gg.searchNumber("-2,128,609,250;8,201;1,076,891,648:41", 4, false, 536870912, 0, -1)
+  gg.getResults(100)
+  gg.editAll("7", 4)
+  gg.clearResults()
+  gg.toast("️️❅️ ɢʀᴇᴇɴ ❅️")
+end  
+
+function CL42()
+  gg.setVisible(false)
+  gg.clearResults()
+  gg.setRanges(131072)
+  gg.searchNumber('95D;2;9.2194229e-41::100', 16, false, 536870912, 0, -1)
+  gg.refineNumber('2', 16, false, 536870912, 0, -1)
+  gg.getResults(999)
+  gg.editAll('120', 16)
+  gg.clearResults()
+  gg.searchNumber('2;-1;0;1;-127;0.24022650719;0.69314718246;0.00999999978::30', 16, false, 536870912, 0, -1)
+  gg.refineNumber('2', 16, false, 536870912, 0, -1)
+  gg.getResults(999)
+  gg.editAll('120', 16)
+  gg.clearResults()
+  gg.toast('☬ ᴡᴀʟʟʜᴀᴄᴋ 712-845 ☬')
+  gg.clearResults()
+  gg.setRanges(131072)
+  gg.searchNumber("-2,128,609,250;8,201;1,076,891,648:41", 4, false, 536870912, 0, -1)
+  gg.getResults(100)
+  gg.editAll("6", 4)
+  gg.clearResults()
+  gg.toast("️️❅️ ʙʟᴜᴇ ❅️")
+end
+
+function CL43()
+  gg.setVisible(false)
+  gg.clearResults()
+  gg.setRanges(131072)
+  gg.searchNumber('95D;2;9.2194229e-41::100', 16, false, 536870912, 0, -1)
+  gg.refineNumber('2', 16, false, 536870912, 0, -1)
+  gg.getResults(999)
+  gg.editAll('120', 16)
+  gg.clearResults()
+  gg.searchNumber('2;-1;0;1;-127;0.24022650719;0.69314718246;0.00999999978::30', 16, false, 536870912, 0, -1)
+  gg.refineNumber('2', 16, false, 536870912, 0, -1)
+  gg.getResults(999)
+  gg.editAll('120', 16)
+  gg.clearResults()
+  gg.toast('❅ ᴡᴀʟʟʜᴀᴄᴋ 712-845 ❅')
+  gg.clearResults()
+  gg.setRanges(gg.REGION_VIDEO or gg.REGION_BAD)
+  gg.searchNumber("8,196D;8,192D;8,200D::", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("8200", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(10)
+  gg.editAll("7", gg.TYPE_DWORD)
+  gg.clearResults()
+  gg.toast(" ❅ ʀᴇᴅ ❅ ")
+  gg.clearResults()
+  gg.setRanges(131072)
+  gg.searchNumber("-2,128,609,250;8,201;1,076,891,648:41", 4, false, 536870912, 0, -1)
+  gg.getResults(100)
+  gg.editAll("8199", 4)
+  gg.clearResults()
+  gg.toast("️️❅️ ɢʀᴇᴇɴ ️️❅️")
+  gg.sleep(400)
+  gg.toast("️️❅️ ᴍɪxɪɴɢ sᴜᴄᴄᴇss ️️❅️")
+end
+
+function SK21()
+ gg.clearResults()
+ gg.setRanges(gg.REGION_BAD)
+ gg.searchNumber('671236105;1074792717;8200;1194363663;11::17', gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+ gg.searchNumber('8200', gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+ gg.getResults(1)
+ gg.editAll('6', gg.TYPE_DWORD)
+ gg.clearResults()
+ gg.toast("ʙʟᴀᴄᴋ sᴋʏ ᴠ2 ᴀᴄᴛɪᴠᴀᴛᴇᴅ")
+end
+
+function SK22()
+  gg.clearResults()
+  gg.setRanges(gg.REGION_VIDEO or gg.REGION_BAD)
+  gg.clearResults()
+  gg.searchNumber("100F;1F;1,008,981,770D:99", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("100", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(100)
+  gg.editAll("-90", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.toast("ʙʟᴀᴄᴋ sᴋʏ ᴀᴄᴛɪᴠᴀᴛᴇᴅ ")
+end
+
+function SK23()
+ gg.clearResults()
+ gg.setRanges(gg.REGION_BAD)
+ gg.searchNumber('671236105;1074792717;8200;1194363663;11::17', gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+ gg.searchNumber('8200', gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+ gg.getResults(1)
+ gg.editAll('3', gg.TYPE_DWORD)
+ gg.clearResults()
+ gg.toast("ᴀᴜʀᴏʀᴀ sᴋʏ ᴀᴄᴛɪᴠᴀᴛᴇᴅ")
+end
+
+function SK24()
+gg.clearResults()
+gg.setRanges(gg.REGION_BAD)
+gg.searchNumber('671236105;1074792717;8200;1194363663;11::17', gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.searchNumber('8200', gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(1)
+gg.editAll('5', gg.TYPE_DWORD)
+gg.clearResults()
+gg.toast("ʀᴇᴅ sᴋʏ ᴀᴄᴛɪᴠᴀᴛᴇᴅ")
+end
+
+function BRT15()
+gg.clearResults()
+gg.searchNumber("40;33;69.5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(50, nil, nil, nil, nil, nil, nil, nil, nil)
+gg.editAll("80;120;230", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_DATA)
+gg.searchNumber("-1.427811E28", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.processResume()
+gg.refineAddress("58", -1, gg.TYPE_FLOAT, gg.SIGN_EQUAL, 0, -1)
+revert = gg.getResults(2700, nil, nil, nil, nil, nil, nil, nil, nil)
+gg.editAll("9999999", gg.TYPE_FLOAT)
+gg.clearResults()
+  gg.toast("ᴍᴀɢɪᴄ ʙᴜʟʟᴇᴛ ᴀᴄᴛɪᴠᴀᴛᴇᴅ")
+end
+
+function BRT16()
+  gg.clearResults()
+  gg.setRanges(32)
+  gg.searchNumber("0.000005;0.000005", 16, false, 536870912, 0, -1)
+  gg.searchNumber("0.000005", 16, false, 536870912, 0, -1)
+  gg.getResults(2)
+  gg.editAll("2.0", 16)
+  gg.toast("❏ ɢʀᴀss ʀᴇᴍᴏᴠᴇᴅ ᴇxᴛʀᴇᴍᴇ ❏")
+end
+
+function BRT17()
+  gg.setRanges(16)
+  gg.clearResults()
+  gg.searchNumber("869,711,765D;2;1::55", 16, false, 536870912, 0, -1)
+  gg.searchNumber("2", 16, false, 536870912, 0, -1)
+  gg.getResults(2)
+  gg.editAll("-10", 16)
+  gg.clearResults()
+  gg.setRanges(32)
+  gg.searchNumber("90.775703430176;0;8;15;16;18;28", 16, false, 536870912, 0, -1)
+  gg.searchNumber("28", 16, false, 536870912, 0, -1)
+  gg.getResults(10)
+  gg.editAll("1000", 16)
+  gg.clearResults()
+  gg.searchNumber("90.775703430176;8;27.25;18;16", 16, false, 536870912, 0, -1)
+  gg.searchNumber("18", 16, false, 536870912, 0, -1)
+  gg.getResults(100)
+  gg.editAll("140", 16)
+  gg.clearResults()
+  gg.setRanges(16)
+  gg.searchNumber("1.0e-7;1.0e-7;2;2;1::512", 16, false, 536870912, 0, -1)
+  gg.searchNumber("2", 16, false, 536870912, 0, -1)
+  gg.getResults(20)
+  gg.editAll("0", 16)
+  gg.alert("⚠️ ᴡᴀʟʟsʜᴏᴏᴛ ᴀᴄᴛɪᴠᴀᴛᴇᴅ ⚠️")
+  gg.clearResults()
+end
+
+function BRT18()
+  gg.clearResults()
+  gg.setRanges(gg.REGION_ANONYMOUS)
+  gg.searchNumber("3.5032462e-44F;10.0F;45.0F", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("10", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(20)
+  gg.editAll("9999", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.toast("ᴡᴀʟʟᴛʜʀᴏᴜɢʜ ᴀᴄᴛɪᴠᴀᴛᴇᴅ!")
+end
+
+function BRT19()
+  gg.clearResults()
+  gg.setRanges(gg.REGION_ANONYMOUS)
+  gg.searchNumber("0.72727274895;0.34377467632;1::9", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("0.72727274895;0.34377467632::5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("0.72727274895;0.34377467632::5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("0.72727274895;0.34377467632::5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(50)
+  gg.editAll("65.241295", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.toast("⚠️ ᴄᴀʀ sᴘᴇᴇᴅ ᴅᴀᴄɪᴀ ᴀᴄᴛɪᴠᴀᴛᴇᴅ ⚠️")
+end
+
+function BRT20()
+  gg.clearResults()
+  gg.setRanges(gg.REGION_ANONYMOUS)
+  gg.searchNumber("1000;10;4D;4D;50;5;2;0.01::", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.refineNumber("0.01", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(280)
+  gg.editAll("-0.23", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.toast("ᴠᴇʜɪᴄʟᴇ sᴘᴇᴇᴅ ɪɴᴄʀᴇᴀsᴇ ᴀᴄᴛɪᴠᴀᴛᴇᴅ")
+end
+
+function BRT21()
+  gg.clearResults()
+  gg.setRanges(gg.REGION_ANONYMOUS)
+  gg.searchNumber("1;1;1;0.0001;20;0.0005;0.4::50", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("1", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(500)
+  gg.editAll("1.07", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.toast("⚠️ ᴍɪᴄʀᴏ sᴘᴇᴇᴅ ᴀᴄᴛɪᴠᴀᴛᴇᴅ ⚠️")
+end
+
+
+function ANTN1()
+  gg.clearResults()
+  gg.setRanges(gg.REGION_ANONYMOUS)
+  gg.searchNumber("88.50576019287F;87.27782440186F;-100.91194152832F;1F::13", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("88.50576019287F;87.27782440186F;1F", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(6)
+  gg.editAll("1.96875;1.96875;999;1.96875;1.96875;999", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.toast("❏ M2 ❏")
+end
+
+function ANTN2()
+  gg.clearResults()
+  gg.setRanges(gg.REGION_ANONYMOUS)
+  gg.searchNumber("0.98900693655~0.98900723457;0.14786802232~0.14786840975;1.1920926e-7::9", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResultsCount()
+  gg.searchNumber("0.98900693655~0.98900723457", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(100)
+  gg.editAll("16000", gg.TYPE_FLOAT)
+  gg.toast("❏ M2 ❏")
+end
+
+function ANTN3()
+  gg.clearResults()
+  gg.setRanges(gg.REGION_ANONYMOUS)
+  gg.searchNumber("0.98900693655~0.98900723457;0.14786802232~0.14786840975;1.1920926e-7::9", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResultCount()
+  gg.searchNumber("0.98900693655~0.98900723457", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(100)
+  gg.editAll("16000", gg.TYPE_FLOAT)
+  gg.toast("❏ M2 ❏")
+end
+
+function ANTN4()
+  gg.clearResults()
+  gg.setRanges(gg.REGION_BAD)
+  gg.searchNumber("6.95975875854", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(999)
+  gg.editAll("88996", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.setRanges(gg.REGION_BAD)
+  gg.searchNumber("88996", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(100)
+  gg.editAll("0.88996", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.setRanges(gg.REGION_BAD)
+  gg.searchNumber("0.88996", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(30)
+  gg.editAll("88996", gg.TYPE_FLOAT)
+  gg.toast("❏ M2 ❏")
+end
+
+function ANTN5()
+  gg.clearResults()
+  gg.setRanges(gg.REGION_BAD)
+  gg.searchNumber("14.79005432129", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("14.79005432129", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(30)
+  gg.editAll("99999", gg.TYPE_FLOAT)
+  gg.toast("❏ M2 ❏")
+end
+
+function ANTN6()
+  gg.clearResults()
+  gg.setRanges(gg.REGION_ANONYMOUS)
+  gg.searchNumber("0.98900693655~0.98900723457;0.14786802232~0.14786840975;1.1920926e-7::9", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResultsCount()
+  gg.searchNumber("0.98900693655~0.98900723457", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(100)
+  gg.editAll("16000", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.setRanges(gg.REGION_ANONYMOUS)
+  gg.searchNumber("0.99626296759", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResultsCount()
+  gg.getResults(50)
+  gg.editAll("150", gg.TYPE_FLOAT)
+  gg.getResults(50)
+  gg.searchNumber("0.9378669858F;1.0F;0.61365610361F::55", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("1", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(850)
+  gg.editAll("9999", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.toast("❏ M2 ❏")
+end
+
+function ANTN7()
+  gg.clearResults()
+  gg.setRanges(gg.REGION_BAD)
+  gg.searchNumber("0.7576~0.7579", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("0.7576~0.7579", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(100)
+  gg.editAll("99999", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.toast("❏ M2 ❏")
+end
+
+function ANTN8()
+  gg.clearResults()
+  gg.setRanges(gg.REGION_BAD)
+  gg.searchNumber("7.1689529418945", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(3)
+  gg.editAll("88996", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.setRanges(gg.REGION_BAD)
+  gg.searchNumber("7.4993133544922", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("7.4993133544922", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(1)
+  gg.editAll("88996", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.setRanges(gg.REGION_BAD)
+  gg.searchNumber("18.46202087402", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(3)
+  gg.editAll("88996", gg.TYPE_FLOAT)
+  gg.setRanges(gg.REGION_BAD)
+  gg.searchNumber("6.95975875854", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(999)
+  gg.editAll("88996", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.setRanges(gg.REGION_BAD)
+  gg.searchNumber("88996", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(100)
+  gg.editAll("0.88996", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.setRanges(gg.REGION_BAD)
+  gg.searchNumber("0.88996", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(30)
+  gg.editAll("88996", gg.TYPE_FLOAT)
+  gg.toast("❏ M2 ❏")
+end
+
+function ANTN9()
+  gg.clearResults()
+  gg.setRanges(gg.REGION_BAD)
+  gg.searchNumber("0.7593~0.7594", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(10)
+  gg.editAll("99999", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.toast("❏ M2 ❏")
+  gg.clearResults()
+  gg.setRanges(gg.REGION_BAD)
+  gg.searchNumber("0.7636~0.7636", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(100)
+  gg.editAll("99999", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.toast("❏ M2 ❏")
+end
+
+function ANTN10()
+  gg.clearResults()
+  gg.clearResults()
+  gg.setRanges(gg.REGION_BAD)
+  gg.searchNumber("0.7604~0.7605", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(5)
+  gg.editAll("99999", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.toast("❏ M2 ❏")
+  gg.clearResults()
+  gg.setRanges(gg.REGION_BAD)
+  gg.searchNumber("3.4779739379883;2.8345839977264;3.1967880725861;3.8841888904572;3.1528658866882::208", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("3.4779739379883", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(3)
+  gg.editAll("88996", gg.TYPE_FLOAT)
+  gg.setRanges(gg.REGION_BAD)
+  gg.searchNumber("88996", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(100)
+  gg.editAll("0.88996", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.setRanges(gg.REGION_BAD)
+  gg.searchNumber("0.88996", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(30)
+  gg.editAll("88996", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.toast("❏ M2 ❏")
+end
+
+function ANTN11()
+  gg.clearResults()
+  gg.clearResults()
+  gg.setRanges(gg.REGION_ANONYMOUS)
+  gg.searchNumber("7.13142681122;0.53447723389;22.6400718689", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("22.6400718689", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(10)
+  gg.editAll("9621", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.setRanges(gg.REGION_ANONYMOUS)
+  gg.clearResults()
+  gg.searchNumber("0.53446006775F;-1.68741035461F:501", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("-1.68741035461", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(1995)
+  gg.editAll("19995", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.searchNumber("18.38612365723F;0.54026412964F:5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("18.38612365723F;0.54026412964F:5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(1995)
+  gg.editAll("19995", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.toast("❏ M2 ❏")
+end
+
+
+function cww1()
+  gg.setRanges(gg.REGION_ANONYMOUS)
+  gg.clearResults()
+  gg.searchNumber("220;178;15 ", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("220", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(300)
+  gg.editAll("350", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.toast("❏ M2 ❏")
+end
+
+function cww2()
+  gg.setRanges(gg.REGION_ANONYMOUS)
+  gg.clearResults()
+  gg.searchNumber("220;178;15 ", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("220", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(300)
+  gg.editAll("438", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.toast("❏ M2 ❏")
+end
+
+function cww3()
+  gg.setRanges(gg.REGION_ANONYMOUS)
+  gg.clearResults()
+  gg.searchNumber("220;178;15 ", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("220", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(300)
+  gg.editAll("1200", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.toast("❏ M2 ❏")
+end
+
+function AIMB1()
+  gg.clearResults()
+  gg.setRanges(32)
+  gg.searchNumber("3.5;1;0.5;200;20::", 16, false, 536870912, 0, -1)
+  gg.searchNumber("1", 16, false, 536870912, 0, -1)
+  gg.getResults(600)
+  gg.editAll("99999", 16)
+  gg.clearResults()
+  gg.setRanges(32)
+  gg.searchNumber("-88.82363891602F;15.0F;1", 16)
+  gg.searchNumber("1", 16)
+  gg.getResults(2000)
+  gg.editAll("20000000000000", 16)
+  gg.clearResults()
+  gg.toast("⚠️ ᴜʟᴛʀᴀ ᴀɪᴍ ʙᴏᴛ ⚠️")
+end
+
+function AIMB2()
+  gg.setRanges(gg.REGION_ANONYMOUS)
+  gg.searchNumber("3.5;1;200;20::999", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("3.5;1;200;20", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(300)
+  gg.editAll("-1.0e10", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.setRanges(gg.REGION_ANONYMOUS)
+  gg.searchNumber("3.5;1;200;20::999", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("3.5;1;200;20::959", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(100)
+  gg.editAll("-99999", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.toast("❏ ᴀɪᴍʙᴏᴛ ❏")
+end
+
+function AIMB3()
+  gg.sleep(500)
+  gg.clearResults()
+  gg.setRanges(16384)
+  gg.searchNumber("-290,174,237", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+  gg.refineNumber("-290,174,237", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+  gg.refineAddress("E00", -1, gg.TYPE_DWORD, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(1)
+  gg.editAll("0", gg.TYPE_DWORD)
+  gg.clearResults()
+  gg.toast("❏ ᴀɪᴍ scope ❏")
+end
+
+function HSMS1()
+gg.alert ("━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n      ⚠️    ᴡɪᴛʜ ᴜʀ ᴏᴡɴ ʀɪsᴋ    ⚠️\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+    gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("25;23;30.5",gg.TYPE_FLOAT,false,gg.SIGN_EQUAL,0,-1)
+gg.searchNumber("23;25;30.5",gg.TYPE_FLOAT,false,gg.SIGN_EQUAL,0,-1)
+gg.searchNumber("25;23;30.5",gg.TYPE_FLOAT,false,gg.SIGN_EQUAL,0,-1)
+gg.searchNumber("23;25;30.5",gg.TYPE_FLOAT,false,gg.SIGN_EQUAL,0,-1)
+gg.getResults(3)
+gg.editAll("180",gg.TYPE_FLOAT)
+gg.clearResults()
+revert = gg.getResults(100, nil, nil, nil, nil, nil, nil, nil, nil)
+local t = gg.getResults(100, nil, nil, nil, nil, nil, nil, nil, nil)
+for i, v in ipairs(t) do
+ if v.flags == gg.TYPE_FLOAT then
+  v.value = "200"
+  v.freeze = true
+ end
+end
+gg.addListItems(t)
+t = nil
+gg.editAll("9999",gg.TYPE_FLOAT)
+gg.clearResults()
+  gg.toast("M2 ʜᴇᴀᴅsʜᴏᴛ ᴍᴀx ᴀᴄᴛɪᴠᴀᴛᴇᴅ")
+  os.remove("/storage/emulated/0/.backups")
+  os.remove("/storage/emulated/0/tencent")
+  os.remove("/storage/emulated/0/MidasOversea")
+  os.remove("/storage/emulated/0/QTAudioEngine")
+  os.remove("/storage/emulated/0/cache")
+  gg.setVisible(true)
+end
+
+function HSMS2()
+  gg.clearResults()
+  gg.setRanges(131072)
+  gg.searchNumber("-88.66608428955;26:512", 16, false, 536870912, 0, -1)
+  gg.searchNumber("26", 16, false, 536870912, 0, -1)
+  gg.getResults(2)
+  gg.editAll("-460", 16)
+  gg.clearResults()
+  gg.searchNumber("-88.73961639404;28:512", 16, false, 536870912, 0, -1)
+  gg.searchNumber("28", 16, false, 536870912, 0, -1)
+  gg.getResults(2)
+  gg.editAll("-560", 16)
+  gg.clearResults()
+  gg.setRanges(32)
+  gg.searchNumber("9.201618;30.5;25", 16, false, 536870912, 0, -1)
+  gg.searchNumber("25;30.5", 16, false, 536870912, 0, -1)
+  gg.getResults(10)
+  gg.editAll("250", 16)
+  gg.clearResults()
+  gg.toast("ʜᴇᴀᴅsʜᴏᴛ sɴɪᴘᴇʀ")
+  gg.setVisible(true)
+end
+
+function HSMS3()
+  gg.clearResults()
+  gg.setRanges(gg.REGION_ANONYMOUS)
+  gg.searchNumber("69.5;35;33", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(6)
+  gg.editAll("160;140;230", gg.TYPE_FLOAT)
+  gg.clearResults()
+  gg.toast("ᴅɪsᴀʙʟᴇ ʜᴇᴀᴅsʜᴏᴛ")
+end
+
+function HSMS4()
+  gg.setRanges(gg.REGION_ANONYMOUS)
+  gg.searchNumber("9.201618;30.5;25", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.searchNumber("25;30.5", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+  gg.getResults(10)
+  gg.editAll("150", gg.TYPE_FLOAT)
+  gg.clearResults()
+  os.remove("/storage/emulated/0/.backups")
+  os.remove("/storage/emulated/0/tencent")
+  os.remove("/storage/emulated/0/MidasOversea")
+  os.remove("/storage/emulated/0/QTAudioEngine")
+  os.remove("/storage/emulated/0/cache")
+  gg.toast("ʜᴇᴀᴅsʜᴏᴛ ᴀᴄᴛɪᴠᴀᴛᴇᴅ")
+end
+
+
+function M2BPASS1()
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("135682;144387", gg.TYPE_DWORD)
+gg.refineNumber("135682", gg.TYPE_DWORD)
+gg.getResults(50000)
+gg.editAll("0", gg.TYPE_DWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("134658;131586", gg.TYPE_DWORD)
+gg.refineNumber("134658", gg.TYPE_DWORD)
+gg.getResults(50000)
+gg.editAll("0", gg.TYPE_DWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("4096;135682", gg.TYPE_DWORD)
+gg.refineNumber("4096", gg.TYPE_DWORD)
+gg.getResults(50000)
+gg.editAll("0", gg.TYPE_DWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("157567", gg.TYPE_DWORD)
+gg.getResults(50000)
+gg.editAll("0", gg.TYPE_DWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("135938", gg.TYPE_DWORD)
+gg.getResults(50000)
+gg.editAll("0", gg.TYPE_DWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("135170", gg.TYPE_DWORD)
+gg.getResults(50000)
+gg.editAll("0", gg.TYPE_DWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("135426", gg.TYPE_DWORD)
+gg.getResults(50000)
+gg.editAll("0", gg.TYPE_DWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("135212", gg.TYPE_DWORD)
+gg.getResults(50000)
+gg.editAll("0", gg.TYPE_DWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("134914;262403", gg.TYPE_DWORD)
+gg.refineNumber("134914", gg.TYPE_DWORD)
+gg.getResults(50000)
+gg.editAll("0", gg.TYPE_DWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("133378;262403", gg.TYPE_DWORD)
+gg.refineNumber("133378", gg.TYPE_DWORD)
+gg.getResults(50000)
+gg.editAll("0", gg.TYPE_DWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("131330;133634", gg.TYPE_DWORD)
+gg.refineNumber("131330", gg.TYPE_DWORD)
+gg.getResults(50000)
+gg.editAll("0", gg.TYPE_DWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("131842;132098", gg.TYPE_DWORD)
+gg.refineNumber("131842", gg.TYPE_DWORD)
+gg.getResults(50000)
+gg.editAll("0", gg.TYPE_DWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("133634", gg.TYPE_DWORD)
+gg.getResults(50000)
+gg.editAll("0", gg.TYPE_DWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("131331", gg.TYPE_DWORD)
+gg.getResults(50000)
+gg.editAll("0", gg.TYPE_DWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("132098", gg.TYPE_DWORD)
+gg.getResults(50000)
+gg.editAll("0", gg.TYPE_DWORD)
+gg.clearResults()
+  gg.alert ("━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n              ❏ 🛡 sʜɪᴇʟᴅ ᴀᴄᴛɪᴠᴀᴛᴇᴅ 🛡 ❏\n\n ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀᴅɪᴜɴ ᴍɪᴅɴɪɢʜᴛ ɪɴғɪɴɪᴛʏ sǫᴜᴀᴅ\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+end
+
+
+function M2MT()
+gg.alert ("━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n      ⚠️ Bypass Under MAINTENANCE ⚠️ \n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n➠ we'll be fix as soon as posible \n➠ do not use any hack fiture without SHIELD\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
+end
+
+function M2CLOSE()
+    print('⛛  M2  ⛛')
+    print('➠ ᴍᴀᴅɪᴜɴ ᴍɪᴅɴɪɢʜᴛ ɪɴғɪɴɪᴛʏ')
+    print('➠ ᴡᴇ ᴀʀᴇ ᴜɴɪᴛʏ .. ᴡᴇ ᴀʀᴇ ɪɴғɪɴɪᴛʏ')
+    print('╔═════════════════╗')
+    print('                  M2 SQUAD')
+    print('╚═════════════════╝')
+    print('➠ sᴄʀɪᴘᴛ ʙʏ • ʟᴇᴛᴍᴇ_sʟᴇᴇᴘ')
+    print('➠ ᴄᴏᴘʏʀɪɢʜᴛs © 2020, M2. ᴀʟʟ ʀɪɢʜᴛ ʀᴇsᴇʀᴠᴇᴅ')
+    gg.skipRestoreState()
+    gg.setVisible(true)
+    os.exit()
+end
+
+function M2SQUAD()
+  bypassAlert =
+  gg.alert ("━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n❏ M2 ❏\n➠  sᴄʀɪᴘᴛ ʙʏ・ʟᴇᴛ ᴍᴇ sʟᴇᴇᴘ\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n                 ⚠️ Run in Lobby ⚠️\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+  "GLOBAL","KOREA️","exit")
+   if bypassAlert == nil then
+  else
+  if bypassAlert == 1 then M2BPASS1() end
+  if bypassAlert == 2 then M2BPASS1() end
+end
+end
+function M2WALLHACK()
+  WALL11 = 
+  gg.alert ("━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n❏ M2 ❏\n➠  sᴄʀɪᴘᴛ ʙʏ・ʟᴇᴛ ᴍᴇ sʟᴇᴇᴘ\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n       ⚠️ ᴏɴʟʏ ғᴏʀ sɴᴀᴘᴅʀᴀɢᴏɴ 712-845 ⚠️\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━",
+  "green", "Yellow mix", "other device") 
+ if WALL11 == nil then
+  else
+  if WALL11 == 1 then CL41() end
+  if WALL11 == 2 then CL43() end
+  if WALL11 == 3 then M2WHALL() end
+end
+end
+
+function M2WHALL()
+M2 = gg.makeRequest("https://pastebin.com/raw/1q1GzbCU").content
+pcall(load(M2))
+end
+
+
+while true do
+  if gg.isVisible(true) then
+    PUBGMH = 1
+    gg.setVisible(false)
+  end
+  gg.clearResults()
+  if PUBGMH == 1 then
+    M2HOME()
+  end
+end
